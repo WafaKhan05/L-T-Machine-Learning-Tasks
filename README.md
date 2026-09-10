@@ -1,4 +1,4 @@
-# L-T-Machine-Learning-Tasks
+# L&T-Machine-Learning-Tasks
 Machine Learning tasks completed as part of my L&T learning program.
 # L&T Machine Learning Tasks
 
